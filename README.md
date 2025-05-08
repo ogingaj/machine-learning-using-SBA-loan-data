@@ -18,6 +18,8 @@ Beyond the U.S. context, the findings offer transferable insights for developmen
 
 To address these questions, this study employs a range of machine learning models, including logistic regression, random forests, gradient boosting (XGBoost), and support vector machines (SVM). These approaches aim not only to enhance predictive accuracy but also to offer actionable insights for public sector finance and policy design.
 
+I used National SBA lending data from 1994 - 2014 uploaded to Kaggle by Toktogaraev, M. (2020): https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied?
+
 # Files & Notebooks
 
 1. pre_processing.ipynb — Notebook for cleaning and preparing the dataset for analysis.
@@ -46,7 +48,7 @@ To address these questions, this study employs a range of machine learning model
 
 # Contributing
 
-This project was completed as part of the Data Science I course and is open for public use. If you'd like to suggest improvements or reuse the code for similar work, feel free to fork the repository or reach out via email.
+Any new scientific insight or findings relies on previous knowledge and work, therefore, this project, completed as part of the Data Science II course, is open for public use. If you'd like to suggest improvements, collaboration, or reuse the code for similar work, feel free to fork the repository or reach out via email.
 
 # License
 
